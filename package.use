@@ -1,0 +1,41 @@
+*/* CPU_FLAGS_X86: aes avx avx2 f16c fma3 mmx mmxext pclmul popcnt rdrand sha sse sse2 sse3 sse4_1 sse4_2 sse4a ssse3
+
+app-crypt/gcr gtk
+
+sys-kernel/linux-firmware initramfs
+
+media-libs/mesa vulkan
+
+dev-lang/ruby -berkdb -debug -doc -examples -gdbm -ipv6 -jemalloc -jit -rdoc -socks5 -ssl -static-libs -systemtap -tk -xemacs
+
+x11-terms/rxvt-unicode 256-color font-styles mousewheel perl xft unicode3 -iso14755 -24-bit-color -blink -fading-colors -gdk-pixbuf -startup-notification
+
+media-libs/vulkan-loader layers
+
+dev-java/sbt binary
+
+sys-firmware/seabios binary
+
+dev-lang/mlton binary
+
+sys-firmware/edk2-ovmf binary
+
+sys-firmware/ipxe binary
+
+sys-firmware/sgabios binary
+
+dev-lang/ghc binary
+
+dev-haskell/nats binary
+
+dev-lang/scala binary
+
+dev-haskell/parsers binary
+
+sys-firmware/vgabios binary
+
+sys-firmware/sigrok-firmware-fx2lafw binary
+
+
+
+
